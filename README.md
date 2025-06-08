@@ -29,7 +29,6 @@ A secure, feature-rich web application for managing personal and professional co
 - Java Mail API
 
 **Frontend**:
-- React.js
 - Tailwind CSS
 - DaisyUI
 - Axios
